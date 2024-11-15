@@ -1,5 +1,6 @@
 # Portofolio
 
+
 # 👋 Hello! I'm Matius Rizky Wijaya
 
 # 👨 About Me
@@ -14,9 +15,11 @@ design patterns, and performance optimization.
 
 # 🎓 Education
 Binus University
-Bachelor of Computer Science
+Bachelor of Computer Science <br>
 Expected Graduation: 2026
 
 # 💻 Skills
 Programming Languages: Java, C, C##, JavaScript, TypeScript, Swift, SQL, PHP, Python
+
+
 
