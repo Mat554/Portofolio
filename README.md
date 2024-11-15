@@ -1,6 +1,6 @@
 # Portofolio
 
-#👋 Hello! I'm Aghna Jaya Pranada
+#👋 Hello! I'm Matius Rizky Wijaya
 
 #👨 About Me
 I'm A computer Science enthusiast with a strong
