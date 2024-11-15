@@ -1,8 +1,8 @@
 # Portofolio
 
-#👋 Hello! I'm Matius Rizky Wijaya
+# 👋 Hello! I'm Matius Rizky Wijaya
 
-#👨 About Me
+# 👨 About Me
 I'm A computer Science enthusiast with a strong
 passion for Java programming. Love to tackle new
 challenges, especially from building efficient
